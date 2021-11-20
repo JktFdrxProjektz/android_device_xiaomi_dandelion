@@ -1,1 +1,0 @@
-allow untrusted_app_all mtk_hal_mms:binder { call transfer };

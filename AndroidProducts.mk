@@ -15,8 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/aosp_dandelion.mk
+   $(LOCAL_DIR)/havoc_dandelion.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_dandelion-userdebug \
-    aosp_dandelion-eng
+    havoc_dandelion-userdebug \
+    havoc_dandelion-eng \
+    havoc_dandelion-user
